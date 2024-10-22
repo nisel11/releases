@@ -1,1 +1,1 @@
-just my releases for fleur with trees by [nokidevz](github.com/nokidevz)
+just my releases for fleur with trees by [Claxten](https://github.com/claxten10)
