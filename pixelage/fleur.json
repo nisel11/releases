@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1730463240,
-            "filename": "ProjectPixelage-v2.1-fleur-15.0-UNOFFICIAL-20241101-1414.zip",
-            "id": "cebef372d573ada81ebbb23a61d7aa90ad494886322d9fc7c5a2290c3473fde5",
+            "datetime": 1730479020,
+            "filename": "ProjectPixelage-v2.1-fleur-15.0-UNOFFICIAL-20241101-1837.zip",
+            "id": "b34a31800a1a8a484c41e7f45db220989fde34b89639b916fe2a4b9c5ffb187c",
             "romtype": "UNOFFICIAL",
-            "size": 1977107402,
-            "url": "https://github.com/nisel11/releases/releases/download/2.1/ProjectPixelage-v2.1-fleur-15.0-UNOFFICIAL-20241101-1414.zip",
+            "size": 1974731193,
+            "url": "https://github.com/nisel11/releases/releases/download/pixelage/ProjectPixelage-v2.1-fleur-15.0-UNOFFICIAL-20241101-1837.zip",
             "version": "2.1"
         }
     ]
